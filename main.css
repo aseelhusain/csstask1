@@ -1,0 +1,12 @@
+.c1{
+
+  color: rgb(0, 0, 0); 
+  background-color: rgb(199, 189, 189);
+  text-align: center; 
+}
+.c2{
+    color: black;
+    background-color: brown;
+    display: inline-block;
+    width: 20%;
+}
